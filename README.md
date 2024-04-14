@@ -10,3 +10,7 @@ fivem ESX jobcenter script
     or
     TriggerEvent('pixel-jobcenter:open_jobcenter')
 ```
+
+# PREVIEW
+
+https://youtu.be/svTuB4MhGGo
