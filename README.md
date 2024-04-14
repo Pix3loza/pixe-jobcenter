@@ -1,4 +1,4 @@
-# pixe-jobcenter
+# pixeL-jobcenter
 fivem ESX jobcenter script 
 
 # USAGE
