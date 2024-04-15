@@ -46,10 +46,3 @@ RegisterNUICallback('close', function()
     SetNuiFocus(false, false)
 end)
 
-
-
-RegisterCommand('test333', function ()
-    Open_SpawnSelect()
-end)
-
-
